@@ -1,2 +1,3 @@
-# taskinator
+# Taskinator
+
 Kanban Board Web Application
